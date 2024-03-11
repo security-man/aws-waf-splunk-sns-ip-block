@@ -4,10 +4,9 @@ variable "shared_config_files" {}
 variable "shared_credentials_files" {}
 variable "profile" {}
 variable "ENVIRONMENT" {
-    type = string
+  type = string
 }
 variable "PROJECT" {
-    type = string
+  type = string
 }
-variable kms_key_id {}
-variable lambda_file_path {}
+variable "kms_key_id" {}

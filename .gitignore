@@ -2,3 +2,4 @@
 *.zip
 *.terraform*
 */builds/
+lambda_test_function.py

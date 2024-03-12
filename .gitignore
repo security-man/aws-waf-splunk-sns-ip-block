@@ -1,3 +1,4 @@
 *tfvars
 *.zip
 *.terraform*
+*/builds/

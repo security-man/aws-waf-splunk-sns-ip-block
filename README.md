@@ -1,0 +1,1 @@
+![alt text](https://github.com/security-man/aws-waf-splunk-sns-ip-block/blob/main/aws_splunk_sns_diagram.png?raw=true)

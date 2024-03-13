@@ -3,3 +3,4 @@
 *.terraform*
 */builds/
 lambda_test_function.py
+outputs.tf
